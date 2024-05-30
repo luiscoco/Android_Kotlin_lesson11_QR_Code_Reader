@@ -335,8 +335,11 @@ fun GreetingPreview() {
 
 ## 3. Sample1 QR
 
+![image](https://github.com/luiscoco/Android_Kotlin_lesson11_QR_Code_Reader/assets/32194879/ff1d29c8-94c3-43d9-9ec6-a28123c9d7cd)
 
+Here's a sample QR code image. You can scan it to visit the link https://www.example.com.
 
 ## 4. Sample 2 QR
+
 
 
