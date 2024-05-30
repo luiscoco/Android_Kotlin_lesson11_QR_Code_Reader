@@ -1,5 +1,7 @@
 # How to read a QR code with Android Composable
 
+See this video for details: https://www.youtube.com/watch?v=UKU9WizT7Bw
+
 ## 1. Dependencies
 
 **build.gradle.kts**(Project)
