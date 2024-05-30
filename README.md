@@ -341,5 +341,8 @@ Here's a sample QR code image. You can scan it to visit the link https://www.exa
 
 ## 4. Sample 2 QR
 
+![image](https://github.com/luiscoco/Android_Kotlin_lesson11_QR_Code_Reader/assets/32194879/c1d1285f-467d-4525-b82f-8fca668c5bc5)
+
+Here is a more complex QR code image. It contains a longer URL with multiple parameters, making it more intricate
 
 
